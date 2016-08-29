@@ -1,0 +1,501 @@
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-2109
+  short invalid encoding
+  1 bio implementation
+  memory consumption
+  asn1_d2i_read_bio function
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-8176
+  1h frees data structures
+  remote dtls peers
+  unexpected application data
+  application data
+  changecipherspec message
+  dtls1_clear_queues function
+  finished message
+  memory corruption
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-2107
+  obtain sensitive cleartext information
+  aes cbc session
+  padding-oracle attack
+  padding check
+  incorrect fix
+  aes-ni implementation
+  memory allocation
+  vulnerability exists
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2011-4619
+  properly handle handshake restarts
+  server gated cryptography
+  unspecified vectors
+  cpu consumption
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2004-0081
+  properly handle unknown message types
+  codenomicon tls test tool
+  infinite loop
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-1793
+  509 basic constraints ca values
+  trigger unintended certificate verifications
+  alternative certificate chains
+  valid leaf certificate
+  certification authority role
+  properly process
+  x509_verify_cert function
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2003-0147
+  integer multiplication algorithms
+  rsa blinding
+  determining factors
+  timing differences
+  extra reductions
+  private key
+  montgomery reduction
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-3511
+  triggering clienthello message fragmentation
+  protocol downgrade
+  ssl23_get_client_hello function
+  man-in-the-middle attackers
+  tls versions
+  tls 1
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-0800
+  decrypt tls ciphertext data
+  bleichenbacher rsa padding oracle
+  plaintext rsa data
+  serververify message
+  sslv2 protocol
+  client possesses
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2008-5077
+  malformed ssl/tls signature
+  evp_verifyfinal function
+  properly check
+  certificate chain
+  bypass validation
+  ecdsa keys
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2012-0884
+  adaptive chosen ciphertext attack
+  million message attack
+  cryptographic message syntax
+  context-dependent attackers
+  decrypt data
+  oracle behavior
+  properly restrict
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2007-5502
+  openssl fips object module 1
+  generates random data
+  bypass protection mechanisms
+  fips self-test
+  perform auto-seeding
+  prng implementation
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2012-0027
+  properly handle invalid parameters
+  gost block cipher
+  gost engine
+  daemon crash
+  tls client
+  crafted data
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2003-0851
+  malformed asn
+  large recursion
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2010-4180
+  vectors involving sniffing network traffic
+  properly prevent modification
+  unintended cipher
+  session cache
+  session identifier
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2011-4108
+  padding oracle attack
+  mac check
+  0f performs
+  dtls implementation
+  recover plaintext
+  padding
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-3509
+  supported point formats extension data
+  sending elliptic curve
+  remote ssl servers
+  client application crash
+  ssl_parse_serverhello_tlsext function
+  race condition
+  session resumption
+  memory overwrite
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-3508
+  process stack memory
+  obtain sensitive information
+  pretty printing
+  context-dependent attackers
+  reading output
+  obj_obj2txt function
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-3507
+  trigger improper handling
+  zero-length dtls fragments
+  dtls implementation
+  insert function
+  memory leak
+  memory consumption
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-0286
+  properly perform boolean-type comparisons
+  invalid read operation
+  asn1_type_cmp function
+  certificate-verification feature
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-3570
+  defeat cryptographic protection mechanisms
+  properly calculate
+  unspecified vectors
+  bn_sqr implementation
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-0204
+  conduct rsa-to-export_rsa downgrade attacks
+  weak ephemeral rsa key
+  client code based
+  facilitate brute-force decryption
+  remote ssl servers
+  export_rsa issues
+  tls implementations
+  ssl3_get_key_exchange function
+  noncompliant role
+  servers
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-0205
+  crafted tls handshake protocol traffic
+  1k accepts client authentication
+  certification authority
+  ssl3_get_cert_verify function
+  obtain access
+  private key
+  certificateverify message
+  dh support
+  dh
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-0207
+  independent data streams
+  crafted dtls traffic
+  state information
+  dtls1_listen function
+  properly isolate
+  0 traffic
+  dtls 1
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2006-2940
+  require extra time
+  rsa signature verification
+  parasitic public keys
+  public modulus
+  public exponent
+  earlier versions
+  cpu consumption
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-1792
+  bio data structure
+  hash function
+  infinite loop
+  do_free_upto function
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-0221
+  invalid dtls handshake
+  client crash
+  dtls1_get_message_fragment function
+  dtls
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2011-3210
+  ephemeral ecdh ciphersuite functionality
+  ensure thread safety
+  tls protocol
+  daemon crash
+  out-of-order messages
+  handshake messages
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-1794
+  remote servers
+  serverkeyexchange message
+  anonymous diffie-hellman
+  ssl3_get_key_exchange function
+  segmentation fault
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-3568
+  bypass intended access restrictions
+  no-ssl3 build option
+  properly enforce
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-0293
+  crafted client-master-key message
+  daemon exit
+  assertion failure
+  sslv2 implementation
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2003-0078
+  incorrect block cipher padding
+  launch cryptographic attacks
+  vaudenay timing attack
+  mac verification errors
+  timing discrepancy
+  mac computation
+  original plaintext
+  information leak
+  possibly leading
+  padding
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2011-3207
+  bypass crl validation
+  structure members
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2010-1633
+  bypass intended key requirements
+  rsa verification recovery
+  returns uninitialized memory
+  obtain sensitive information
+  party information
+  context-dependent attackers
+  unspecified vectors
+  evp_pkey_verify_recover function
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2007-4995
+  execute arbitrary code
+  dtls implementation
+  unspecified vectors
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2009-0591
+  properly handle errors
+  malformed signed attributes
+  cms_verify function
+  originally appeared
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2004-0975
+  trustix secure linux 1
+  local users
+  symlink attack
+  temporary files
+  operating systems
+  openssl package
+  overwrite files
+  der_chop script
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2011-4576
+  properly initialize data structures
+  obtain sensitive information
+  block cipher padding
+  padding data
+  ssl peer
+  ssl 3
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2011-4577
+  ip address blocks
+  assertion failure
+  autonomous system
+  certificate-extension data
+  rfc 3779 support
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2013-6449
+  incorrect data structure
+  crafted traffic
+  version number
+  ssl_get_algorithm2 function
+  daemon crash
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2013-0169
+  mac check requirement
+  malformed cbc padding
+  conduct distinguishing attacks
+  timing side-channel attacks
+  plaintext-recovery attacks
+  timing data
+  statistical analysis
+  dtls protocol 1
+  lucky thirteen
+  tls protocol 1
+  crafted packets
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2009-3245
+  bn_wexpand function calls
+  context-dependent attack vectors
+  unspecified impact
+  null return
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-3195
+  2e mishandles errors caused
+  malformed x509_attribute data
+  obtain sensitive information
+  asn1_tflg_combine implementation
+  decoding failure
+  cms application
+  process memory
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-3197
+  defeat cryptographic protection mechanisms
+  performing computations
+  sslv2 traffic
+  man-in-the-middle attackers
+  disabled ciphers
+  get_client_hello functions
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2012-2686
+  crafted cbc data
+  aes-ni functionality
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-0704
+  2a overwrites incorrect master-key bytes
+  decrypt tls ciphertext data
+  bleichenbacher rsa padding oracle
+  oracle protection mechanism
+  export cipher suites
+  related issue
+  get_client_master_key function
+  sslv2 implementation
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-0701
+  making multiple handshakes
+  private dh exponent
+  prime numbers
+  key exchange
+  dh_check_pub_key function
+  inappropriate number
+  dh
+  number
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-0702
+  intel sandy bridge cpu core
+  leveraging cache-bank conflicts
+  cache-bank access times
+  discover rsa keys
+  crafted application
+  local users
+  mod_exp_ctime_copy_from_prebuf function
+  modular exponentiation
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-0703
+  decrypt tls ciphertext data
+  bleichenbacher rsa padding oracle
+  nonzero client-master-key clear-key-length
+  arbitrary cipher
+  2a accepts
+  man-in-the-middle attackers
+  related issue
+  get_client_master_key function
+  sslv2 implementation
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-8275
+  fingerprint-based certificate-blacklist protection mechanism
+  including crafted data
+  unsigned portion
+  certificate data
+  certificate
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-1788
+  malformed binary polynomial field
+  properly handle ecparameters structures
+  supports client authentication
+  elliptic curve algorithm
+  bn_gf2m_mod_inv function
+  infinite loop
+  curve
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2013-6450
+  properly maintain data structures
+  dtls retransmission implementation
+  man-in-the-middle attackers
+  packet delivery
+  encryption contexts
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2009-1377
+  dtls record buffer limitation bug
+  dtls records
+  dtls1_buffer_record function
+  future epoch
+  large series
+  memory consumption
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2009-3555
+  microsoft internet information services
+  mozilla network security services
+  properly associate renegotiation handshakes
+  multiple cisco products
+  apache http server 2
+  processed retroactively
+  insert data
+  existing connection
+  sessions protected
+  man-in-the-middle attackers
+  https sessions
+  post-renegotiation context
+  project mogul
+  plaintext injection
+  unauthenticated request
+  ssl protocol 3
+  tls protocol
+  possibly earlier
+  server
+  products
+  possibly
+  tls
+  ssl
+  earlier
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-0224
+  properly restrict processing
+  obtain sensitive information
+  crafted tls handshake
+  zero-length master key
+  ccs injection
+  man-in-the-middle attackers
+  hijack sessions
+  openssl-to-openssl communications
+  changecipherspec messages
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2003-0131
+  unauthorized rsa private key operation
+  modified bleichenbacher attack
+  klima-pokorny-rosa attack
+  large number
+  tls connections
+  leak information
+  tls components
+  pkcs #1 v1
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-1787
+  ephemeral diffie-hellman ciphersuite
+  client authentication
+  daemon crash
+  ssl3_get_client_key_exchange function
+  clientkeyexchange message
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2006-4339
+  removes pkcs-1 padding
+  correctly verifying
+  rsa key
+  pkcs #1 v1
+  prevents openssl
+  openssl
+  pkcs #1
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2002-0659
+  asn1 library
+  invalid encodings
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-0287
+  invalid write operation
+  adb data structures
+  reinitialize choice
+  asn1_item_ex_d2i function
+  1 structure reuse
+  memory corruption
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2006-2937
+  improperly handled error condition
+  infinite loop
+  malformed asn
+  memory consumption
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-0285
+  defeat cryptographic protection mechanisms
+  brute-force attack
+  ssl3_client_hello function
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2002-0655
+  properly handle ascii representations
+  possibly execute arbitrary code
+  64 bit platforms
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-1789
+  custom verification callback
+  supports client authentication
+  crafted length field
+  asn1_time data
+  out-of-bounds read
+  x509_cmp_time function
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2003-0544
+  ssl client certificate
+  long form
+  properly track
+  read past
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-3193
+  obtain sensitive private-key information
+  montgomery squaring implementation
+  mishandles carry propagation
+  produces incorrect output
+  bn_mod_exp function
+  x86_64 platform
+  diffie-hellman ephemeral
+  diffie-hellman
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2005-2969
+  preventing protocol version rollback attacks
+  ssl/tls server implementation
+  weaker protocol
+  verification step
+  ssl_op_msie_sslv2_rsa_padding option
+  man-in-the-middle attack
+  server
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2010-4252
+  sending crafted values
+  shared secret
+  public parameters
+  successfully authenticate
+  properly validate
+  j-pake protocol
+  protocol
+  j-pake
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-3572
+  conduct ecdhe-to-ecdh downgrade attacks
+  remote ssl servers
+  serverkeyexchange message
+  forward secrecy
+  ssl3_get_key_exchange function
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-0076
+  flush+reload cache side-channel attack
+  obtain ecdsa nonces
+  montgomery ladder implementation
+  local users
+  swap operations
+  constant-time behavior
+
